@@ -89,3 +89,5 @@ Exploring UI/UX design and front-end development, one project at a time.
 ---
 
 ⭐ If you find this project interesting, feel free to explore the repository!
+
+Update README
